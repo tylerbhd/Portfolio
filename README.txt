@@ -1,1 +1,1 @@
-Portfolio website for Tyler Blanchfield. Contains information about services offered and work done thus far.
+Portfolio website for Tyler Blanchfield. Contains information about services he offers and work done thus far.
